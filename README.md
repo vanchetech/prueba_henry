@@ -1,2 +1,3 @@
 # prueba_henry
-Es una ejercicio para crear repos
+Esten es un ejercicio para crear repositorios
+del bootcamp Henry
